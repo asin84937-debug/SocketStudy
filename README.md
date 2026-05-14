@@ -69,8 +69,9 @@ if ack:
     print(ack)
     c.close()
 ```
-```
+
 ## Server.py:
+```
 import socket
 s=socket.socket()
 s.connect(('localhost',9000))
