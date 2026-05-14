@@ -85,6 +85,8 @@ Client.py output:
 Server.py output:
 <img width="724" height="568" alt="Screenshot 2026-05-14 212814" src="https://github.com/user-attachments/assets/033eb5c6-a7f5-4e7d-8140-046aa52b3c22" />
 
+Developed by: A.Asin banu
+Register Number: 212225040035
 
 ## Result:
 Thus the study of Socket Programming Completed Successfully
