@@ -69,7 +69,6 @@ if ack:
     print(ack)
     c.close()
 ```
-
 ## Server.py:
 ```
 import socket
